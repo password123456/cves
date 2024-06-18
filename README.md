@@ -3,7 +3,7 @@ High-risk CVEs that may require verification and impact analysis.
 
 If you'd like to receive notifications about CVE information stored in this repository, please join the following channel. It's free.
 
-- https://t.me/latest_high_impact_cve
+- [Latest High Impact Cves](https://t.me/latest_high_impact_cve)
 
   
 Notifications about "high-risk CVEs requiring analysis" will be sent out in the following format:
